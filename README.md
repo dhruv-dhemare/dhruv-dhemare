@@ -20,25 +20,49 @@
 ---
 
 ## 🚀 Featured Work
-### 🔹 The Alumni Society — Alumni Management Platform  
-**Tech:** MERN • PostgreSQL • Redis • spaCy • PaddleOCR  
-Auth • Profiles • ML-powered document handling • Caching  
-🔗 https://github.com/dhruv-dhemare/The-Alumni-Society
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Little Shield — Wearable Emergency Alert System  
-**Tech:** ESP32 • Firebase • GSM • GPS  
-Real-time alerts • Live tracking • Cloud sync  
-🔗 https://github.com/dhruv-dhemare/Little-Shield
+<strong>🔹 <a href="https://github.com/dhruv-dhemare/The-Alumni-Society">The Alumni Society — Alumni Management Platform</a></strong><br>
+<em>Tech:</em> MERN • PostgreSQL • Redis • spaCy • PaddleOCR<br>
+A full-stack platform to manage alumni communities, profiles, and engagement — built with scalable backend architecture.<br>
+Includes ML-powered document extraction, caching, and secure authentication.
 
-### 🔹 Pokedex Web App  
-**Tech:** JavaScript • HTML • CSS  
-Interactive Pokédex using public APIs  
-🔗 https://github.com/dhruv-dhemare/Pokedex
+</td>
+<td width="50%" valign="top">
 
-### 🔹 Library Management System  
-**Tech:** React.js • SQL  
-CRUD-based digital library workflow  
-🔗 https://github.com/dhruv-dhemare/Library-Management-System
+<strong>🛡️ <a href="https://github.com/dhruv-dhemare/Little-Shield">Little Shield — Wearable Emergency Alert System</a></strong><br>
+<em>Tech:</em> ESP32 • Firebase • GSM • GPS<br>
+An IoT-based personal safety device that sends emergency alerts with real-time location tracking.<br>
+Designed for reliability with cloud syncing and instant SMS/GPS-based updates.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<strong>📡 <a href="https://github.com/dhruv-dhemare/Pokedex">Pokedex Web App</a></strong><br>
+<em>Tech:</em> JavaScript • HTML • CSS<br>
+A responsive Pokémon search and info explorer using live PokéAPI data.<br>
+Built with clean UI design and efficient API handling.
+
+</td>
+<td width="50%" valign="top">
+
+<strong>📘 <a href="https://github.com/dhruv-dhemare/Library-Management-System">Library Management System</a></strong><br>
+<em>Tech:</em> React.js • SQL<br>
+A digital system for managing books, records, and user workflows with CRUD operations.<br>
+Focused on clean interfaces and database-driven functionality.
+
+</td>
+</tr>
+</table>
+
+
+
+
 
 ---
 
