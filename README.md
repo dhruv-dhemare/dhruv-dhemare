@@ -43,10 +43,10 @@ Designed for reliability with cloud syncing and instant SMS/GPS-based updates.
 <tr>
 <td width="50%" valign="top">
 
-<strong>📡 <a href="https://github.com/dhruv-dhemare/Pokedex">Pokedex Web App</a></strong><br>
-<em>Tech:</em> JavaScript • HTML • CSS<br>
-A responsive Pokémon search and info explorer using live PokéAPI data.<br>
-Built with clean UI design and efficient API handling.
+<strong>🎥 <a href="https://github.com/dhruv-dhemare/DigiCafe">DigiCafe — Peer-to-Peer WebRTC Video Conferencing Platform</a></strong><br>
+<em>Tech:</em> React • Vite • Node.js • Express • WebRTC • WebSocket • PostgreSQL<br>
+A privacy-first, full-stack video conferencing platform with direct peer-to-peer video, chat, and file sharing that never routes through a central server.<br>
+Mesh WebRTC architecture with JWT-authenticated room access; server only handles signaling.
 
 </td>
 <td width="50%" valign="top">
@@ -59,10 +59,6 @@ Focused on clean interfaces and database-driven functionality.
 </td>
 </tr>
 </table>
-
-
-
-
 
 ---
 
@@ -80,4 +76,4 @@ Backend engineering • API design • DSA • System design fundamentals
 
 ---
 
-> *“Code should not only work — it should be understood.”*
+> *"Code should not only work — it should be understood."*
