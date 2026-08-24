@@ -24,10 +24,10 @@
 <tr>
 <td width="50%" valign="top">
 
-<strong>🔹 <a href="https://github.com/dhruv-dhemare/The-Alumni-Society">The Alumni Society — Alumni Management Platform</a></strong><br>
-<em>Tech:</em> MERN • PostgreSQL • Redis • spaCy • PaddleOCR<br>
-A full-stack platform to manage alumni communities, profiles, and engagement — built with scalable backend architecture.<br>
-Includes ML-powered document extraction, caching, and secure authentication.
+<strong>🎥 <a href="https://github.com/dhruv-dhemare/DigiCafe">DigiCafe — Peer-to-Peer WebRTC Video Conferencing Platform</a></strong><br>
+<em>Tech:</em> React • Vite • Node.js • Express • WebRTC • WebSocket • PostgreSQL<br>
+A privacy-first, full-stack video conferencing platform with direct peer-to-peer video, chat, and file sharing that never routes through a central server.<br>
+Mesh WebRTC architecture with JWT-authenticated room access; server only handles signaling.
 
 </td>
 <td width="50%" valign="top">
@@ -43,10 +43,10 @@ Designed for reliability with cloud syncing and instant SMS/GPS-based updates.
 <tr>
 <td width="50%" valign="top">
 
-<strong>🎥 <a href="https://github.com/dhruv-dhemare/DigiCafe">DigiCafe — Peer-to-Peer WebRTC Video Conferencing Platform</a></strong><br>
-<em>Tech:</em> React • Vite • Node.js • Express • WebRTC • WebSocket • PostgreSQL<br>
-A privacy-first, full-stack video conferencing platform with direct peer-to-peer video, chat, and file sharing that never routes through a central server.<br>
-Mesh WebRTC architecture with JWT-authenticated room access; server only handles signaling.
+<strong>🔹 <a href="https://github.com/dhruv-dhemare/The-Alumni-Society">The Alumni Society — Alumni Management Platform</a></strong><br>
+<em>Tech:</em> MERN • PostgreSQL • Redis • spaCy • PaddleOCR<br>
+A full-stack platform to manage alumni communities, profiles, and engagement — built with scalable backend architecture.<br>
+Includes ML-powered document extraction, caching, and secure authentication.
 
 </td>
 <td width="50%" valign="top">
