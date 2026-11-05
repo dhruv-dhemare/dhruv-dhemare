@@ -68,7 +68,7 @@ Backend engineering • API design • DSA • System design fundamentals
 ---
 
 ### 📬 Connect
-🔗 Portfolio — https://dhruv-dhemare.netlify.app/  
+<!--🔗 Portfolio — https://dhruv-dhemare.netlify.app/-->  
 🔗 LinkedIn — https://www.linkedin.com/in/dhruv-dhemare-43378728a  
 🔗 LeetCode — https://leetcode.com/u/dhruv_dhemare/  
 🔗 CodeChef — https://www.codechef.com/users/dhruv_dhemare  
